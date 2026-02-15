@@ -1,0 +1,12 @@
+.venv
+__pycache__
+OUTPUT_IMAGES
+*.pyc
+*.pyo
+*.pyd
+*.pdf
+venvName
+OUTPUT_IMG
+*.png
+*.jpg
+*.jpeg
